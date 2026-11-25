@@ -4,6 +4,10 @@ An interactive Power BI report that takes a headline fraud KPI and traces it dow
 
 > **Note:** All data is synthetic and created for portfolio purposes only. No real bank or customer data is used.
 
+![Dashboard](Fraud_Analytics.png)
+
+![Decomposition Tree](Fraud_Decompositiontree.png)
+
 ## Key Insight
 Gross fraud amount is **291.48M**, but net fraud loss after recovery is **189.25M**. These two numbers tell very different stories about exposure.
 
